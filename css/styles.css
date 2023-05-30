@@ -306,6 +306,12 @@
 }
 /*icons*/
 .envelope {
+  fill: currentColor;
+  margin-right: 10px;
+}
+.smartphone {
+  fill: currentColor;
+  margin-right: 10px;
 }
 .antenna {
   color: #000000;
