@@ -345,4 +345,17 @@
   text-align: center;
   margin-block-end: 0;
   margin-block-start: 0;
+  margin-bottom: 50px;
+}
+.client-li {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.client-icon {
+  width: 172px;
+  height: 92px;
+}
+.client-border {
 }
