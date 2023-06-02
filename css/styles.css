@@ -428,6 +428,7 @@
   border-width: 44px;
   border-radius: 50%;
   background-color: #2196f3;
+  fill: #ffffff;
 }
 
 .social-link:hover,
@@ -463,6 +464,10 @@ h5 {
   align-items: center;
   background-color: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
+}
+.social-link-footer-icon:hover,
+.social-link-footer-icon:focus {
+  filter: brightness(0) invert(1);
 }
 /* portfolio hw4 */
 
